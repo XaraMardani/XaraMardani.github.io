@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Mylittle web",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\nXara is making a fashion website to dropshipping some new fashion items."
+    "text": "This is a Quarto website. ppppp\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\nXara is making a fashion website to dropshipping some new fashion items."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,26 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Webtest/rrr.html",
+    "href": "Webtest/rrr.html",
+    "title": "Untitled",
+    "section": "",
+    "text": "dtyzdth"
+  },
+  {
+    "objectID": "Webtest/about.html",
+    "href": "Webtest/about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Webtest/index.html",
+    "href": "Webtest/index.html",
+    "title": "Webtest",
+    "section": "",
+    "text": "This is a Quarto website.\nI say hello.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   }
 ]
